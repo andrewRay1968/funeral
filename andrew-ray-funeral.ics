@@ -9,7 +9,7 @@ DTSTART:20260723T093000Z
 DTEND:20260723T140000Z
 SUMMARY:Funeral Service & Reception for Andrew James Ray
 LOCATION:Stockport Crematorium, Buxton Road, Stockport, Cheshire SK2 6LS
-DESCRIPTION:10:45 am Funeral Service at Stockport Crematorium (Rowan Chapel).\n\n11:45 pm Reception at Hazel Grove Golf Club.
+DESCRIPTION:10:45 am Funeral Service at Stockport Crematorium (Rowan Chapel).\n\n11:45 pm Reception at Hazel Grove Golf Club.\n\nFor full details, maps and donation information, please visit:\nhttps://andrewray1968.github.io/funeral/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
